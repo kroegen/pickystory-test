@@ -2,7 +2,7 @@
 
 Responsive carousel made with flexbox + images from unsplash + kind of infinity scroll + lazy loading for images made with intersection observer
 
-[Demo here](d5z12c1hdfotl.cloudfront.net)
+[Demo here](https://d5z12c1hdfotl.cloudfront.net)
 
 
 ## Project Setup
